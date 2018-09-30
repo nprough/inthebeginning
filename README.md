@@ -1,5 +1,5 @@
-# 1:1 In the Beginning by Prough Web Design, LLC
-### A wordpress starter theme for dummies
+# 1:1 In the Beginning
+### A wordpress starter theme for dummies by Prough Web Design, LLC
 
 Are you sick of the starter themes with all the extra fluff, but still want a theme that is a helpful starting point?  You found it.
 
