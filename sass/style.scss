@@ -1,0 +1,25 @@
+/*
+Theme Name: InTheBeginning
+Author: ProughWebDesign, LLC
+Description: Starter Theme to save valuable time
+Version: 1.0.0
+Tags: starter, theme
+*/
+
+@import 'variables';
+@import 'mixins';
+@import 'header';
+
+/* ---Pages--- */
+@import 'pages/home';
+@import 'pages/blog';
+@import 'pages/search';
+/* --- */
+
+/* Mobile */
+@import 'mobile/home';
+@import 'mobile/blog';
+@import 'mobile/search';
+/* --- */
+
+@import 'footer';
