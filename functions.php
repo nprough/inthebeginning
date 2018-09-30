@@ -1,4 +1,5 @@
 <?php
+// This page holds all of your functions.
 
 // Register Custom Navigation Walker - if using bootstrap
 require_once get_template_directory() . '/import/wp-bootstrap-navwalker-master/class-wp-bootstrap-navwalker.php';

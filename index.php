@@ -1,3 +1,6 @@
+<?php
+// Uses this when nothing else specified
+?>
 <?php get_header(); ?>
 <div>
     <?php

@@ -1,3 +1,6 @@
+<?php
+// This page shows search results when using the get_search_form() function
+?>
 <?php get_header(); ?>
 <div>
     <div>

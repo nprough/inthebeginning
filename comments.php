@@ -1,8 +1,10 @@
 <?php
+// Displays Comments, use the comments_template() function to add to a post page.
+?>
+<?php
 if ( post_password_required() )
     return;
 ?>
- 
 <div class="comments">
     <?php comment_form(); ?>
     <?php if ( have_comments() ) : ?>

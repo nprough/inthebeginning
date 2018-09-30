@@ -3,6 +3,9 @@
 Template Name: Starter
 */
 ?>
+<?php
+// This is a starter template if you want to add a template for a certain page.
+?>
 <?php get_header(); ?>
 <div>
     <?php

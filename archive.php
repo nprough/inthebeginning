@@ -1,3 +1,7 @@
+<?php
+// This is the archives of your website.
+// Shows posts in the format you choose.
+?>
 <?php get_header(); ?>
 <!--<?php wp_get_archives('type=daily'); ?>-->
 <!--<?php wp_get_archives('type=monthly'); ?>-->

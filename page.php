@@ -1,3 +1,6 @@
+<?php
+// Basic page template when a custom template is not selected for a page.
+?>
 <?php get_header(); ?>
 <div>
     <?php

@@ -1,4 +1,7 @@
-	   </div>
+<?php
+// The footer of your page, include get_footer() function to add it to a page.
+?>
+        </div>
 
         <footer>
             <?php
