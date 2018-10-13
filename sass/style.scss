@@ -11,15 +11,12 @@ Tags: starter, theme
 @import 'header';
 
 /* ---Pages--- */
-@import 'pages/home';
 @import 'pages/blog';
 @import 'pages/search';
 /* --- */
 
 /* Mobile */
-@import 'mobile/home';
-@import 'mobile/blog';
-@import 'mobile/search';
+@import 'mobile';
 /* --- */
 
 @import 'footer';
